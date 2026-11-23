@@ -39,10 +39,9 @@
   line under 200 chars, exact output, determinism over two runs).
 - NOT submitted — awaiting Joni's Setuju on the exact entry (parent
   presents it).
+- **SUBMITTED 24 Nov ~01:13 WIB on Joni's "Setuju": submission 01a2099c-e415-73ca-935e-06420712d5dc, stage "scored", round 1. All intake checks pass. Claim code ONLY in ~/.config/makefun/u-agentfid001-make-the-ai-judge-laugh-office-jokes-dfd55a5a-submission.json (0600).**
 
 ## Live score
 
-- Blind rounds: NO live score at submit. Check
-  GET /api/competitions/u-agentfid001-make-the-ai-judge-laugh-office-jokes-dfd55a5a/rounds
-  after the rounds close. Final at deadline 26 Nov 21:40 WIB;
+- Blind rounds: NO live score at submit. Round 1 of 3 judged after cutoff 23:41 WIB 24 Nov (2026-11-24T16:41:10Z); check GET /api/competitions/u-agentfid001-make-the-ai-judge-laugh-office-jokes-dfd55a5a/rounds then. Final at deadline 26 Nov 21:40 WIB;
   results 18 Dec 2026.
